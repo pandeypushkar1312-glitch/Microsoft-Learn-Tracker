@@ -1,0 +1,7 @@
+{
+  "name": "Microsoft Learn Path Tracker",
+  "description": "Full-stack Microsoft Learn certification & learning path tracker with prerequisite state engine, Android app preview, visual branching roadmap, server-side Gemini AI next-step advisor, and interactive Microbot AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
